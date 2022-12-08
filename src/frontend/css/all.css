@@ -1,0 +1,10 @@
+
+@font-face{
+    font-display:swap;
+    font-family:'Lato';
+    font-style:normal;
+    font-weight:400;    
+	/*src:url("http://localhost:8080/font?name=Lato-Regular.woff2") format("woff2")*/
+	src:url("http://carz.austingreen.top/font?name=Lato-Regular.woff2") format("woff2")
+	/*src:url("https://carz.austingreen.top/font?name=Lato-Regular.woff2") format("woff2")*/
+}

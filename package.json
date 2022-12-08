@@ -1,0 +1,14 @@
+{
+  "name": "carz",
+  "version": "1.0.0",
+  "description": "Carz Demo",
+  "main": "index.js",
+  "scripts": {
+	"index": "node src/backend/index.js"
+  },
+  "author": "Austin Green",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

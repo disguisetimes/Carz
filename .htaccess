@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)$ src/backend/index.php [L,NC]
